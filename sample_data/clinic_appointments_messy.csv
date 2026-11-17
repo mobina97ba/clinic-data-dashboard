@@ -1,0 +1,23 @@
+appointment_id,clinic,appointment_date,status,billed_amount,collected_amount,patient_id,marketing_source
+M2001,Melbourne Central,2025-04-02,Completed,$420,$420,P101,Google Ads
+M2002,richmond ,2025-04-03,completed,380,200,P102,Referral
+M2003,Richmond,03/04/2025,completed,550,550,P103,Organic
+M2004,South Yarra,2025-04-05,No Show,210,0,P104,Social
+M2005,South Yarra,2025-04-06,Cancelled,150,0,P105,
+M2006,Melbourne Central,2025-04-08,done,610,610,P106,Google Ads
+M2006,Melbourne Central,2025-04-08,done,610,610,P106,Google Ads
+M2007,Richmond,not a date,completed,300,300,P107,Referral
+M2008,South Yarra,2025-04-10,completed,abc,300,P108,Organic
+M2009,Melbourne Central,2025-04-11,completed,-50,0,P109,Referral
+M2010,,2025-04-12,completed,400,400,P110,Social
+M2011,Richmond,2025-04-14,rescheduled,260,0,P111,Google Ads
+M2012,South Yarra,2025-04-15,completed,"1,200",900,P112,Referral
+M2013,Melbourne Central,2025-05-01,completed,500,500,P101,Google Ads
+M2014,Richmond,2025-05-02,completed,430,430,P102,Referral
+M2015,South Yarra,2025-05-04,no-show,190,0,P113,Social
+M2016,Melbourne Central,2025-05-06,completed,380,300,P114,Organic
+M2017,Richmond,2025-05-07,cancelled,170,0,P115,Google Ads
+M2018,South Yarra,2025-05-09,completed,640,640,P116,Referral
+,Richmond,2025-05-10,completed,300,300,P117,Organic
+M2019,Melbourne Central,31/02/2025,completed,300,300,P118,Social
+M2020,Richmond,2025-05-13,completed,360,360,P119,
